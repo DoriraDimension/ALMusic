@@ -2,12 +2,117 @@
 
 Items: {
 	KillYourselfStaffBlade: {
-		DisplayName: "Kill Yourself Staff Blade"
+		DisplayName: Kill Yourself Staff Blade
 		Tooltip:
 			'''
 			Template of an item
 			Replacing this tooltip is duty 
 			It's snowing on Mt.Fuji
 			'''
+	}
+}
+
+Mods: {
+	ALMusic: {
+		Tiles: {
+			ColdEnragedHellBoxPlaced.MapEntry: Cold Enraged Hell Box Placed
+			ColdHellBoxPlaced.MapEntry: Cold Hell Box Placed
+			FungusBoxPlaced.MapEntry: Fungus Box Placed
+			FungusMenuBoxPlaced.MapEntry: Fungus Menu Box Placed
+			InfernoBoxPlaced.MapEntry: Inferno Box Placed
+			InfernoNightBoxPlaced.MapEntry: Inferno Night Box Placed
+			InfernoUBoxPlaced.MapEntry: Inferno U Box Placed
+			MadnessBoxPlaced.MapEntry: Madness Box Placed
+			MireBoxPlaced.MapEntry: Mire Box Placed
+			MireDayBoxPlaced.MapEntry: Mire Day Box Placed
+			MireUBoxPlaced.MapEntry: Mire U Box Placed
+			MonarchBoxPlaced.MapEntry: Monarch Box Placed
+			ShroomForestBoxNightPlaced.MapEntry: Shroom Forest Box Night Placed
+			ShroomForestBoxPlaced.MapEntry: Shroom Forest Box Placed
+			ShroomForestNightArrivalBoxPlaced.MapEntry: Shroom Forest Night Arrival Box Placed
+			VoidBoxPlaced.MapEntry: Void Box Placed
+		}
+
+		Items: {
+			ColdEnragedHellBox: {
+				DisplayName: Cold Enraged Hell Box
+				Tooltip: ""
+			}
+
+			ColdHellBox: {
+				DisplayName: Cold Hell Box
+				Tooltip: ""
+			}
+
+			FungusBox: {
+				DisplayName: Fungus Box
+				Tooltip: ""
+			}
+
+			FungusMenuBox: {
+				DisplayName: Fungus Menu Box
+				Tooltip: ""
+			}
+
+			InfernoBox: {
+				DisplayName: Inferno Box
+				Tooltip: ""
+			}
+
+			InfernoNightBox: {
+				DisplayName: Inferno Night Box
+				Tooltip: ""
+			}
+
+			InfernoUBox: {
+				DisplayName: Inferno U Box
+				Tooltip: ""
+			}
+
+			MadnessBox: {
+				DisplayName: Madness Box
+				Tooltip: ""
+			}
+
+			MireBox: {
+				DisplayName: Mire Box
+				Tooltip: ""
+			}
+
+			MireDayBox: {
+				DisplayName: Mire Day Box
+				Tooltip: ""
+			}
+
+			MireUBox: {
+				DisplayName: Mire U Box
+				Tooltip: ""
+			}
+
+			MonarchBox: {
+				DisplayName: Monarch Box
+				Tooltip: ""
+			}
+
+			ShroomForestBox: {
+				DisplayName: Shroom Forest Box
+				Tooltip: ""
+			}
+
+			ShroomForestNightArrivalBox: {
+				DisplayName: Shroom Forest Night Arrival Box
+				Tooltip: ""
+			}
+
+			ShroomForestNightBox: {
+				DisplayName: Shroom Forest Night Box
+				Tooltip: ""
+			}
+
+			VoidBox: {
+				DisplayName: Void Box
+				Tooltip: ""
+			}
+		}
 	}
 }
