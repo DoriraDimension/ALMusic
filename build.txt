@@ -1,0 +1,3 @@
+displayName = Awakened Light Music
+author = Dorira
+version = 0.9
