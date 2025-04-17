@@ -15,103 +15,167 @@ Items: {
 Mods: {
 	ALMusic: {
 		Tiles: {
-			ColdEnragedHellBoxPlaced.MapEntry: Cold Enraged Hell Box Placed
-			ColdHellBoxPlaced.MapEntry: Cold Hell Box Placed
-			FungusBoxPlaced.MapEntry: Fungus Box Placed
-			FungusMenuBoxPlaced.MapEntry: Fungus Menu Box Placed
-			InfernoBoxPlaced.MapEntry: Inferno Box Placed
-			InfernoNightBoxPlaced.MapEntry: Inferno Night Box Placed
-			InfernoUBoxPlaced.MapEntry: Inferno U Box Placed
-			MadnessBoxPlaced.MapEntry: Madness Box Placed
-			MireBoxPlaced.MapEntry: Mire Box Placed
-			MireDayBoxPlaced.MapEntry: Mire Day Box Placed
-			MireUBoxPlaced.MapEntry: Mire U Box Placed
-			MonarchBoxPlaced.MapEntry: Monarch Box Placed
-			ShroomForestBoxNightPlaced.MapEntry: Shroom Forest Box Night Placed
-			ShroomForestBoxPlaced.MapEntry: Shroom Forest Box Placed
-			ShroomForestNightArrivalBoxPlaced.MapEntry: Shroom Forest Night Arrival Box Placed
-			VoidBoxPlaced.MapEntry: Void Box Placed
+			ColdEnragedHellBoxPlaced.MapEntry: Music Box
+			ColdHellBoxPlaced.MapEntry: Music Box
+			FungusBoxPlaced.MapEntry: Music Box
+			FungusMenuBoxPlaced.MapEntry: Music Box
+			InfernoBoxPlaced.MapEntry: Music Box
+			InfernoNightBoxPlaced.MapEntry: Music Box
+			InfernoUBoxPlaced.MapEntry: Music Box
+			MadnessBoxPlaced.MapEntry: Music Box
+			MireBoxPlaced.MapEntry: Music Box
+			MireDayBoxPlaced.MapEntry: Music Box
+			MireUBoxPlaced.MapEntry: Music Box
+			MonarchBoxPlaced.MapEntry: Music Box
+			ShroomForestBoxNightPlaced.MapEntry: Music Box
+			ShroomForestBoxPlaced.MapEntry: Music Box
+			ShroomForestNightArrivalBoxPlaced.MapEntry: Music Box
+			VoidBoxPlaced.MapEntry: Music Box
 		}
 
 		Items: {
 			ColdEnragedHellBox: {
-				DisplayName: Cold Enraged Hell Box
-				Tooltip: ""
+				DisplayName: Music Box (Frozen Underworld - Enraged)
+				Tooltip:
+				    '''
+					Plays Raging Sins
+					By DrVoodoo
+					'''
 			}
 
 			ColdHellBox: {
-				DisplayName: Cold Hell Box
-				Tooltip: ""
+				DisplayName: Music Box (Frozen Underworld)
+				Tooltip:
+				    '''
+					Plays Frigid Sins
+					By DrVoodoo
+					'''
 			}
 
 			FungusBox: {
-				DisplayName: Fungus Box
-				Tooltip: ""
+				DisplayName: Music Box (Feudal Fungus)
+				Tooltip:
+				    '''
+					Plays ???
+					By ???
+					'''
 			}
 
 			FungusMenuBox: {
-				DisplayName: Fungus Menu Box
-				Tooltip: ""
+				DisplayName: Music Box (Fungal Prayers)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			InfernoBox: {
-				DisplayName: Inferno Box
-				Tooltip: ""
+				DisplayName: Music Box (Dragon's Hoard - Day)
+				Tooltip:
+				    '''
+					Plays ???
+					By ???
+					'''
 			}
 
 			InfernoNightBox: {
-				DisplayName: Inferno Night Box
-				Tooltip: ""
+				DisplayName: Music Box (Dragon's Hoard - Night)
+				Tooltip:
+				    '''
+					Plays ???
+					By ???
+					'''
 			}
 
 			InfernoUBox: {
-				DisplayName: Inferno U Box
-				Tooltip: ""
+				DisplayName: Music Box (Dragon's Burrow)
+				Tooltip:
+				    '''
+					Plays ???
+					By ???
+					'''
 			}
 
 			MadnessBox: {
-				DisplayName: Madness Box
-				Tooltip: ""
+				DisplayName: Music Box (Night of Madness)
+				Tooltip:
+				    '''
+					Plays Visage's Visit
+					By DrVoodoo
+					'''
 			}
 
 			MireBox: {
-				DisplayName: Mire Box
-				Tooltip: ""
+				DisplayName: Music Box (Shrouded Mire - Night)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			MireDayBox: {
-				DisplayName: Mire Day Box
-				Tooltip: ""
+				DisplayName: Music Box (Shrouded Mire - Day)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			MireUBox: {
-				DisplayName: Mire U Box
-				Tooltip: ""
+				DisplayName: Music Box (Lake Depths)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			MonarchBox: {
-				DisplayName: Monarch Box
-				Tooltip: ""
+				DisplayName: Music Box (Mushroom Monarch)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			ShroomForestBox: {
-				DisplayName: Shroom Forest Box
-				Tooltip: ""
+				DisplayName: Music Box (Scarlet Mycelium Forest - Day)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			ShroomForestNightArrivalBox: {
-				DisplayName: Shroom Forest Night Arrival Box
-				Tooltip: ""
+				DisplayName: Music Box (Scarlet Mycelium Forest - Tarnished Night)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			ShroomForestNightBox: {
-				DisplayName: Shroom Forest Night Box
-				Tooltip: ""
+				DisplayName: Music Box (Scarlet Mycelium Forest - Night)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 
 			VoidBox: {
-				DisplayName: Void Box
-				Tooltip: ""
+				DisplayName: Music Box (Void's Edge)
+				Tooltip:
+				    '''
+					Plays ???
+					By Clyder
+					'''
 			}
 		}
 	}
