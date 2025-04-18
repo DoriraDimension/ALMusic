@@ -65,7 +65,7 @@ Mods: {
 				DisplayName: Music Box (Fungal Prayers)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Light of a new Era
 					By Clyder
 					'''
 			}
@@ -110,7 +110,7 @@ Mods: {
 				DisplayName: Music Box (Shrouded Mire - Night)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Noctilucous Terrors
 					By Clyder
 					'''
 			}
@@ -119,7 +119,7 @@ Mods: {
 				DisplayName: Music Box (Shrouded Mire - Day)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Stalking Silence
 					By Clyder
 					'''
 			}
@@ -128,7 +128,7 @@ Mods: {
 				DisplayName: Music Box (Lake Depths)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Heart of drowned Dreams
 					By Clyder
 					'''
 			}
@@ -137,7 +137,7 @@ Mods: {
 				DisplayName: Music Box (Mushroom Monarch)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Marching Monarchy
 					By Clyder
 					'''
 			}
@@ -146,7 +146,7 @@ Mods: {
 				DisplayName: Music Box (Scarlet Mycelium Forest - Day)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Vermilion Tranquility
 					By Clyder
 					'''
 			}
@@ -155,7 +155,7 @@ Mods: {
 				DisplayName: Music Box (Scarlet Mycelium Forest - Tarnished Night)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Premonitions
 					By Clyder
 					'''
 			}
@@ -164,7 +164,7 @@ Mods: {
 				DisplayName: Music Box (Scarlet Mycelium Forest - Night)
 				Tooltip:
 				    '''
-					Plays ???
+					Plays Spores of Serenity
 					By Clyder
 					'''
 			}
