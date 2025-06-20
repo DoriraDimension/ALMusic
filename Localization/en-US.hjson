@@ -31,13 +31,14 @@ Mods: {
 			ShroomForestBoxPlaced.MapEntry: Music Box
 			ShroomForestNightArrivalBoxPlaced.MapEntry: Music Box
 			VoidBoxPlaced.MapEntry: Music Box
+			ScrapBoxPlaced.MapEntry: Scrap Box Placed
 		}
 
 		Items: {
 			ColdEnragedHellBox: {
 				DisplayName: Music Box (Frozen Underworld - Enraged)
 				Tooltip:
-				    '''
+					'''
 					Plays Raging Sins
 					By DrVoodoo
 					'''
@@ -46,7 +47,7 @@ Mods: {
 			ColdHellBox: {
 				DisplayName: Music Box (Frozen Underworld)
 				Tooltip:
-				    '''
+					'''
 					Plays Frigid Sins
 					By DrVoodoo
 					'''
@@ -55,7 +56,7 @@ Mods: {
 			FungusBox: {
 				DisplayName: Music Box (Feudal Fungus)
 				Tooltip:
-				    '''
+					'''
 					Plays ???
 					By ???
 					'''
@@ -64,7 +65,7 @@ Mods: {
 			FungusMenuBox: {
 				DisplayName: Music Box (Fungal Prayers)
 				Tooltip:
-				    '''
+					'''
 					Plays Light of a new Era
 					By Clyder
 					'''
@@ -73,7 +74,7 @@ Mods: {
 			InfernoBox: {
 				DisplayName: Music Box (Dragon's Hoard - Day)
 				Tooltip:
-				    '''
+					'''
 					Plays ???
 					By ???
 					'''
@@ -82,7 +83,7 @@ Mods: {
 			InfernoNightBox: {
 				DisplayName: Music Box (Dragon's Hoard - Night)
 				Tooltip:
-				    '''
+					'''
 					Plays ???
 					By ???
 					'''
@@ -91,7 +92,7 @@ Mods: {
 			InfernoUBox: {
 				DisplayName: Music Box (Dragon's Burrow)
 				Tooltip:
-				    '''
+					'''
 					Plays ???
 					By ???
 					'''
@@ -100,7 +101,7 @@ Mods: {
 			MadnessBox: {
 				DisplayName: Music Box (Night of Madness)
 				Tooltip:
-				    '''
+					'''
 					Plays Visage's Visit
 					By DrVoodoo
 					'''
@@ -109,7 +110,7 @@ Mods: {
 			MireBox: {
 				DisplayName: Music Box (Shrouded Mire - Night)
 				Tooltip:
-				    '''
+					'''
 					Plays Noctilucous Terrors
 					By Clyder
 					'''
@@ -118,7 +119,7 @@ Mods: {
 			MireDayBox: {
 				DisplayName: Music Box (Shrouded Mire - Day)
 				Tooltip:
-				    '''
+					'''
 					Plays Stalking Silence
 					By Clyder
 					'''
@@ -127,7 +128,7 @@ Mods: {
 			MireUBox: {
 				DisplayName: Music Box (Lake Depths)
 				Tooltip:
-				    '''
+					'''
 					Plays Heart of drowned Dreams
 					By Clyder
 					'''
@@ -136,7 +137,7 @@ Mods: {
 			MonarchBox: {
 				DisplayName: Music Box (Mushroom Monarch)
 				Tooltip:
-				    '''
+					'''
 					Plays Marching Monarchy
 					By Clyder
 					'''
@@ -145,7 +146,7 @@ Mods: {
 			ShroomForestBox: {
 				DisplayName: Music Box (Scarlet Mycelium Forest - Day)
 				Tooltip:
-				    '''
+					'''
 					Plays Vermilion Tranquility
 					By Clyder
 					'''
@@ -154,7 +155,7 @@ Mods: {
 			ShroomForestNightArrivalBox: {
 				DisplayName: Music Box (Scarlet Mycelium Forest - Tarnished Night)
 				Tooltip:
-				    '''
+					'''
 					Plays Premonitions
 					By Clyder
 					'''
@@ -163,7 +164,7 @@ Mods: {
 			ShroomForestNightBox: {
 				DisplayName: Music Box (Scarlet Mycelium Forest - Night)
 				Tooltip:
-				    '''
+					'''
 					Plays Spores of Serenity
 					By Clyder
 					'''
@@ -172,10 +173,15 @@ Mods: {
 			VoidBox: {
 				DisplayName: Music Box (Void's Edge)
 				Tooltip:
-				    '''
+					'''
 					Plays ???
 					By Clyder
 					'''
+			}
+
+			ScrapBox: {
+				DisplayName: Scrap Box
+				Tooltip: ""
 			}
 		}
 	}

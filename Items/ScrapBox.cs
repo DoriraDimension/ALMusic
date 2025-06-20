@@ -1,18 +1,19 @@
-using Terraria.ModLoader;
+﻿using Terraria.ModLoader;
 using Terraria.ID;
 using Terraria.GameContent.Creative;
 using ALMusic.Tiles;
+using System;
 
 namespace ALMusic.Items
 {
-    public class VoidBox : ModItem
+    public class ScrapBox : ModItem
     {
-        
+
         public override void SetStaticDefaults()
         {
             //DisplayName.SetDefault("Void Music Box");
             //Tooltip.SetDefault(@"Plays 'Gaze into Darkness' by Charlie Debnam");
-            MusicLoader.AddMusicBox(Mod, MusicLoader.GetMusicSlot(Mod, "Sounds/Music/VoidsEdge"), ModContent.ItemType<VoidBox>(), ModContent.TileType<VoidBoxPlaced>());
+            MusicLoader.AddMusicBox(Mod, MusicLoader.GetMusicSlot(Mod, "Sounds/Music/Scrapyard"), ModContent.ItemType<ScrapBox>(), ModContent.TileType<ScrapBoxPlaced>());
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
         }
 
@@ -24,7 +25,7 @@ namespace ALMusic.Items
             Item.useTime = 10;
             Item.autoReuse = true;
             Item.consumable = true;
-            Item.createTile = ModContent.TileType<VoidBoxPlaced>();
+            Item.createTile = ModContent.TileType<ScrapBoxPlaced>();
             Item.width = 24;
             Item.height = 24;
             Item.rare = ItemRarityID.LightRed;
@@ -36,9 +37,9 @@ namespace ALMusic.Items
             Mod AL = ALMusic.Instance.AL;
             if (AL != null)
             {
-                 CreateRecipe()
+                CreateRecipe()
                 .AddIngredient(ItemID.MusicBox)
-                .AddIngredient(AL.Find<ModItem>("Doomstone").Type, 8)
+                //.AddIngredient(AL.Find<ModItem>("DoomiteScrap").Type, 20)
                 .AddTile(TileID.HeavyWorkBench)
                 .Register();
             }
