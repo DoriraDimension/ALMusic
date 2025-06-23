@@ -32,6 +32,7 @@ Mods: {
 			ShroomForestNightArrivalBoxPlaced.MapEntry: Music Box
 			VoidBoxPlaced.MapEntry: Music Box
 			ScrapBoxPlaced.MapEntry: Scrap Box Placed
+			FungusBox2Placed.MapEntry: Fungus Box2 Placed
 		}
 
 		Items: {
@@ -57,8 +58,8 @@ Mods: {
 				DisplayName: Music Box (Feudal Fungus)
 				Tooltip:
 					'''
-					Plays ???
-					By ???
+					Plays Under his Radiance (Bedimmed)
+					By Clyder
 					'''
 			}
 
@@ -180,8 +181,21 @@ Mods: {
 			}
 
 			ScrapBox: {
-				DisplayName: Scrap Box
-				Tooltip: ""
+				DisplayName: Music Box (Scrapyard)
+				Tooltip:
+					'''
+					Plays ???
+					By Clyder
+					'''
+			}
+
+			FungusBox2: {
+				DisplayName: Music Box (Feudal Fungus - phase 2)
+				Tooltip:
+					'''
+					Plays Under his Radiance (Illuminated)
+					By Clyder
+					'''
 			}
 		}
 	}
